@@ -1,0 +1,1 @@
+from myApp.api.urls import urls
